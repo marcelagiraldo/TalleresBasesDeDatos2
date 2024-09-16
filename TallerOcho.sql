@@ -1,3 +1,4 @@
+--Parte 1
 create table usuario_vii(
 	identificacion varchar(10) primary key unique not null,
 	nombre varchar(50) not null,
@@ -15,7 +16,7 @@ create table factura_vii(
 	usuario_id varchar(10) not null,
 	constraint fk_usuario_id FOREIGN KEY (usuario_id) REFERENCES usuario_vii(identificacion)
 );
-drop table factura_vii,usuario_vii;
+
 create or replace procedure crear_usuario_vii()
 language plpgsql
 as $$
@@ -80,6 +81,7 @@ $$;
 call crear_factura_vii();
 select * from  factura_vii;
 
+--Parte 2
 create or replace procedure prueba_identificacion_unica(identificacion varchar(10))
 language plpgsql
 as $$
@@ -100,6 +102,7 @@ end;
 $$;
 call prueba_identificacion_unica('0396325103');
 
+--Parte 3
 create or replace procedure prueba_cliente_debe_existir()
 language plpgsql
 as $$
@@ -119,18 +122,19 @@ $$;
 call prueba_cliente_debe_existir();
 select * from  factura_vii;
 
+--Parte 4
 create or replace procedure prueba_producto_vacio()
 language plpgsql
 as $$
 begin
 	insert into factura_vii(fecha,producto,cantidad,valor_unitario,valor_total,usuario_id)
-	values ('2024-09-14','Catuchera',1,89780,89780,0446331466);
+	values ('2024-09-14','Catuchera',1,89780,89780,'0446331466');
 	insert into factura_vii(fecha,producto,cantidad,valor_unitario,valor_total,usuario_id)
-	values ('2024-09-14',null,2,89780,89780*2,0446331466);
+	values ('2024-09-14',null,2,89780,89780*2,'0446331466');
 exception
 	when others then
-		ROLLBACK;
         RAISE NOTICE 'Se produjo un error: %', SQLERRM;
+		ROLLBACK;
 end;
 $$;
 SELECT * FROM usuario_vii WHERE identificacion = '0446331466';
