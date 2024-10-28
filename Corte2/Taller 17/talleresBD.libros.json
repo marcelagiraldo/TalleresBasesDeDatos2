@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "671ed5a1c7e9992338d3ba2b"
+  },
+  "isbn": "978-6073802707",
+  "titulo": "Sira",
+  "nombre_autor": "María Dueñas",
+  "genero": "Ciencia Ficcion",
+  "aio": "2021"
+},
+{
+  "_id": {
+    "$oid": "671ed794c7e9992338d3ba2e"
+  },
+  "isbn": "978-9585118741",
+  "titulo": "La Bestia",
+  "nombre_autor": "Carmen Mola",
+  "genero": "Thriller",
+  "aio": "2021"
+},
+{
+  "_id": {
+    "$oid": "671ed7eec7e9992338d3ba30"
+  },
+  "isbn": "978-8420460866",
+  "titulo": "El Italiano",
+  "nombre_autor": "Arturo Perez",
+  "genero": "Novela",
+  "aio": "2021"
+},
+{
+  "_id": {
+    "$oid": "671ed7fac7e9992338d3ba31"
+  },
+  "isbn": "978-6073823276",
+  "titulo": "El infinito en un junco",
+  "nombre_autor": "Irene Vallejo",
+  "genero": "Ensayo",
+  "aio": "2020"
+},
+{
+  "_id": {
+    "$oid": "671ed803c7e9992338d3ba32"
+  },
+  "isbn": "978-6073170363",
+  "titulo": "Tiempos recios",
+  "nombre_autor": "Mario Vargas",
+  "genero": "Novela",
+  "aio": "2019"
+},
+{
+  "_id": {
+    "$oid": "671ed80ec7e9992338d3ba33"
+  },
+  "isbn": "978-8420460965",
+  "titulo": "Los vencejos",
+  "nombre_autor": "Fernando Aramburu",
+  "genero": "Ciencia ficcion",
+  "aio": "2021"
+},
+{
+  "_id": {
+    "$oid": "671ed815c7e9992338d3ba34"
+  },
+  "isbn": "978-8466359171",
+  "titulo": "Aquitania",
+  "nombre_autor": "Eva Garcia",
+  "genero": "Novela",
+  "aio": "2020"
+},
+{
+  "_id": {
+    "$oid": "671ed81dc7e9992338d3ba35"
+  },
+  "isbn": "978-8466666217",
+  "titulo": "El tiempo entre costuras",
+  "nombre_autor": "Maria Dueñas",
+  "genero": "Novela",
+  "aio": "2021"
+},
+{
+  "_id": {
+    "$oid": "671ed824c7e9992338d3ba36"
+  },
+  "isbn": "978-8417421616",
+  "titulo": "A corazón abierto",
+  "nombre_autor": "Elvira Lindo",
+  "genero": "Ficcion",
+  "aio": "2020"
+},
+{
+  "_id": {
+    "$oid": "671ed82bc7e9992338d3ba37"
+  },
+  "isbn": "978-6073808440",
+  "titulo": "Las tinieblas y el alba",
+  "nombre_autor": "Ken Follett",
+  "genero": "Novela",
+  "aio": "2020"
+},
+{
+  "_id": {
+    "$oid": "671ed831c7e9992338d3ba38"
+  },
+  "isbn": "978-8413142805",
+  "titulo": "La ciudad de vapor",
+  "nombre_autor": "Carlos Ruiz Zafón",
+  "genero": "Cuentos",
+  "aio": "2020"
+},
+{
+  "_id": {
+    "$oid": "671ed838c7e9992338d3ba39"
+  },
+  "isbn": "978-6070793237",
+  "titulo": "La ridícula idea de no volver a verte",
+  "nombre_autor": "Rosa Montero",
+  "genero": "Ensayo",
+  "aio": "2021"
+},
+{
+  "_id": {
+    "$oid": "671ed87ec7e9992338d3ba3a"
+  },
+  "isbn": "978-6073179762",
+  "titulo": "Personas decentes",
+  "nombre_autor": "Leonardo Padura",
+  "genero": "Novela",
+  "aio": "2022"
+},
+{
+  "_id": {
+    "$oid": "671ed886c7e9992338d3ba3b"
+  },
+  "isbn": "762-1872364",
+  "titulo": "Don quijote de la mancha",
+  "nombre_autor": "Miguel de Cervantes",
+  "genero": "Novela",
+  "aio": "1605"
+},
+{
+  "_id": {
+    "$oid": "671ed88cc7e9992338d3ba3c"
+  },
+  "isbn": "978-6073800710",
+  "titulo": "Reina roja",
+  "nombre_autor": "Juna Gomez",
+  "genero": "Thriller",
+  "aio": "2018"
+},
+{
+  "_id": {
+    "$oid": "671ed8a7c7e9992338d3ba3d"
+  },
+  "isbn": "978-8420435574",
+  "titulo": "Todo arde",
+  "nombre_autor": "Juan Gomez",
+  "genero": "Thriller",
+  "aio": "2022"
+},
+{
+  "_id": {
+    "$oid": "671ed8afc7e9992338d3ba3e"
+  },
+  "isbn": "978-6073824280",
+  "titulo": "El libro de las almas",
+  "nombre_autor": "Pedro Baños",
+  "genero": "Ensayo",
+  "aio": "2021"
+},
+{
+  "_id": {
+    "$oid": "671ed8b9c7e9992338d3ba3f"
+  },
+  "isbn": "978-8413142966",
+  "titulo": "La nena",
+  "nombre_autor": "Carmen Mola",
+  "genero": "Thriller",
+  "aio": "2020"
+},
+{
+  "_id": {
+    "$oid": "671ed8bfc7e9992338d3ba40"
+  },
+  "isbn": "978-8439739392",
+  "titulo": "Linea de fuego",
+  "nombre_autor": "Arturo Perez",
+  "genero": "Novela",
+  "aio": "2020"
+},
+{
+  "_id": {
+    "$oid": "671ed8c8c7e9992338d3ba41"
+  },
+  "isbn": "978-6073800208",
+  "titulo": "El último día de Terranova",
+  "nombre_autor": "Manuel Rivas",
+  "genero": "Ficción",
+  "aio": "2021"
+}]
