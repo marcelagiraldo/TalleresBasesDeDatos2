@@ -1,0 +1,16 @@
+[{
+  "_id": "900",
+  "nombre_genero": "Thriller"
+},
+{
+  "_id": "901",
+  "nombre_genero": "Ciencia Ficcion"
+},
+{
+  "_id": "902",
+  "nombre_genero": "Novela"
+},
+{
+  "_id": "903",
+  "nombre_genero": "Ensayo"
+}]

@@ -1,0 +1,30 @@
+[{
+  "_id": "001",
+  "nombre": "Carmen Mola",
+  "nacionalidad": "Española"
+},
+{
+  "_id": "002",
+  "nombre": "Maria Dueñas",
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": "003",
+  "nombre": "Arturo Perez",
+  "nacionalidad": "Italiano"
+},
+{
+  "_id": "004",
+  "nombre": "Irene Vallejo",
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": "005",
+  "nombre": "Juan Gomez",
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": "006",
+  "nombre": "Manuel Rivas",
+  "nacionalidad": "Español"
+}]

@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "671fed2cbe4335ccd54c0e4e"
+  },
+  "isbn": "978-9585118741",
+  "titulo": "La bestia",
+  "autor_id": "001",
+  "genero_id": "900"
+},
+{
+  "_id": {
+    "$oid": "671ff86cbe4335ccd54c0e56"
+  },
+  "isbn": "978-8413142966",
+  "titulo": "La nena",
+  "autor_id": "001",
+  "genero_id": "900"
+},
+{
+  "_id": {
+    "$oid": "671ff888be4335ccd54c0e57"
+  },
+  "isbn": "978-6073802707",
+  "titulo": "Siria",
+  "autor_id": "002",
+  "genero_id": "901"
+},
+{
+  "_id": {
+    "$oid": "671ff89fbe4335ccd54c0e58"
+  },
+  "isbn": "978-8466666217",
+  "titulo": "El tiempo entre costuras",
+  "autor_id": "002",
+  "genero_id": "902"
+},
+{
+  "_id": {
+    "$oid": "671ff8b8be4335ccd54c0e59"
+  },
+  "isbn": "978-8420460866",
+  "titulo": "El italiano",
+  "autor_id": "003",
+  "genero_id": "902"
+},
+{
+  "_id": {
+    "$oid": "671ff8d3be4335ccd54c0e5a"
+  },
+  "isbn": "978-8439739392",
+  "titulo": "Linea de fuego",
+  "autor_id": "003",
+  "genero_id": "902"
+},
+{
+  "_id": {
+    "$oid": "671ff8eabe4335ccd54c0e5b"
+  },
+  "isbn": "978-6073823276",
+  "titulo": "El infinito en un junco",
+  "autor_id": "004",
+  "genero_id": "903"
+},
+{
+  "_id": {
+    "$oid": "671ff909be4335ccd54c0e5c"
+  },
+  "isbn": "978-8420435574",
+  "titulo": "Todo arte",
+  "autor_id": "005",
+  "genero_id": "900"
+},
+{
+  "_id": {
+    "$oid": "671ff922be4335ccd54c0e5d"
+  },
+  "isbn": "978-6073800710",
+  "titulo": "Reina roja",
+  "autor_id": "005",
+  "genero_id": "900"
+},
+{
+  "_id": {
+    "$oid": "671ff946be4335ccd54c0e5e"
+  },
+  "isbn": "978-6073800208",
+  "titulo": "El ultimo dia de terranova",
+  "autor_id": "006",
+  "genero_id": "901"
+}]

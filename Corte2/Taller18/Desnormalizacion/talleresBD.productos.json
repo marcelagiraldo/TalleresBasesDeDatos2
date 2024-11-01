@@ -1,0 +1,250 @@
+[{
+  "_id": {
+    "$oid": "6724ecda61c8d8adc04d9473"
+  },
+  "productoID": "001",
+  "nombre": "Camiseta",
+  "descripcion": "Camiseta de algodon",
+  "precio": "30000",
+  "categoria": {
+    "categoriaID": "1",
+    "nombreCategoria": "Ropa"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Muy comoda",
+      "cliente": "Juan"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Buena calidad",
+      "cliente": "Maria"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6724ecda61c8d8adc04d9474"
+  },
+  "productoID": "002",
+  "nombre": "Nike",
+  "descripcion": "Zapatos deportivos",
+  "precio": "102000",
+  "categoria": {
+    "categoriaID": "2",
+    "nombreCategoria": "Calzado"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Muy comodos",
+      "cliente": "Mario"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Excelente calidad",
+      "cliente": "Fernanda"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6724edb661c8d8adc04d9476"
+  },
+  "productoID": "003",
+  "nombre": "Pantalón",
+  "descripcion": "Pantalón de mezclilla",
+  "precio": "45000",
+  "categoria": {
+    "categoriaID": "1",
+    "nombreCategoria": "Ropa"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Ajuste perfecto",
+      "cliente": "Carlos"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Muy cómodo",
+      "cliente": "Ana"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6724edb661c8d8adc04d9477"
+  },
+  "productoID": "004",
+  "nombre": "Zapatos",
+  "descripcion": "Zapatos de cuero",
+  "precio": "80000",
+  "categoria": {
+    "categoriaID": "2",
+    "nombreCategoria": "Calzado"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Muy elegantes",
+      "cliente": "Luis"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Buen soporte",
+      "cliente": "Sofía"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6724edb661c8d8adc04d9478"
+  },
+  "productoID": "005",
+  "nombre": "Chaqueta",
+  "descripcion": "Chaqueta de invierno",
+  "precio": "120000",
+  "categoria": {
+    "categoriaID": "1",
+    "nombreCategoria": "Ropa"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Calienta mucho",
+      "cliente": "Pedro"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Material resistente",
+      "cliente": "Lucía"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6724edb661c8d8adc04d9479"
+  },
+  "productoID": "006",
+  "nombre": "Gorra",
+  "descripcion": "Gorra de béisbol",
+  "precio": "15000",
+  "categoria": {
+    "categoriaID": "3",
+    "nombreCategoria": "Accesorios"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Muy ligera",
+      "cliente": "Javier"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Me encanta el diseño",
+      "cliente": "Natalia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6724edb661c8d8adc04d947a"
+  },
+  "productoID": "007",
+  "nombre": "Sudadera",
+  "descripcion": "Sudadera con capucha",
+  "precio": "50000",
+  "categoria": {
+    "categoriaID": "1",
+    "nombreCategoria": "Ropa"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Perfecta para el frío",
+      "cliente": "Diego"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Muy cómoda",
+      "cliente": "Elena"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6724edb661c8d8adc04d947b"
+  },
+  "productoID": "008",
+  "nombre": "Cinturón",
+  "descripcion": "Cinturón de cuero",
+  "precio": "25000",
+  "categoria": {
+    "categoriaID": "3",
+    "nombreCategoria": "Accesorios"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Duradero y elegante",
+      "cliente": "Andrés"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Buena calidad",
+      "cliente": "Claudia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6724edb661c8d8adc04d947c"
+  },
+  "productoID": "009",
+  "nombre": "Bufanda",
+  "descripcion": "Bufanda de lana",
+  "precio": "20000",
+  "categoria": {
+    "categoriaID": "3",
+    "nombreCategoria": "Accesorios"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Suave y abrigada",
+      "cliente": "Felipe"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Excelente para invierno",
+      "cliente": "Mariana"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6724edb661c8d8adc04d947d"
+  },
+  "productoID": "010",
+  "nombre": "Calcetines",
+  "descripcion": "Calcetines de algodón",
+  "precio": "10000",
+  "categoria": {
+    "categoriaID": "1",
+    "nombreCategoria": "Ropa"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Súper cómodos",
+      "cliente": "Sergio"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Colores variados",
+      "cliente": "Valeria"
+    }
+  ]
+}]
