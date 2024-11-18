@@ -119,9 +119,16 @@ public class TallerMongoDBJava {
         */
         //Precio mayor a 90.000
         System.out.println("Productos mayores a 90.000");
-        MongoCursor<Document> cursor1 = collection.find(gt("precio","90000")).iterator();
+        MongoCursor<Document> cursor1 = collection.find(gt("precio","70000")).iterator();
         while (cursor1.hasNext()) {
             System.out.println(cursor1.next().toJson());            
+        }
+        
+        //Precio mayor a 25.000 y categoria Deportes
+        System.out.println("Productos mayores a 25.000 y categoria Deportes");
+        MongoCursor<Document> cursor2 = collection.find(and(gt("precio","25000"),eq("categoria.nombreCategoria", "Deportes"))).iterator();
+        while (cursor2.hasNext()) {
+            System.out.println(cursor2.next().toJson());            
         }
     }
 }
