@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "673b79c1b45fa64481fe6bf3"
+  },
+  "productoID": "011",
+  "nombre": "Camiseta",
+  "descripcion": "Camiseta de algodón talla S",
+  "precio": "30000",
+  "categoria": {
+    "categoriaID": "4",
+    "nombreCategoria": "Deportes"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Muy cómoda",
+      "cliente": "Juan"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Buena calidad",
+      "cliente": "Maria"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673b79c1b45fa64481fe6bf4"
+  },
+  "productoID": "012",
+  "nombre": "Pantalón",
+  "descripcion": "Pantalón de mezclilla",
+  "precio": "60000",
+  "categoria": {
+    "categoriaID": "5",
+    "nombreCategoria": "Electrónica"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Perfecto ajuste",
+      "cliente": "Carlos"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Buen material",
+      "cliente": "Luisa"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673b79c1b45fa64481fe6bf5"
+  },
+  "productoID": "013",
+  "nombre": "Sudadera",
+  "descripcion": "Sudadera de algodón con capucha",
+  "precio": "80000",
+  "categoria": {
+    "categoriaID": "4",
+    "nombreCategoria": "Deportes"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Muy cálida",
+      "cliente": "Andrés"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Ideal para invierno",
+      "cliente": "Sofía"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673b79c1b45fa64481fe6bf6"
+  },
+  "productoID": "014",
+  "nombre": "Gorra",
+  "descripcion": "Gorra deportiva unisex",
+  "precio": "15000",
+  "categoria": {
+    "categoriaID": "5",
+    "nombreCategoria": "Electrónica"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Muy cómoda y ligera",
+      "cliente": "Diego"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Buena protección solar",
+      "cliente": "Carla"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673b79c1b45fa64481fe6bf7"
+  },
+  "productoID": "015",
+  "nombre": "Cinturón",
+  "descripcion": "Cinturón de cuero genuino",
+  "precio": "25000",
+  "categoria": {
+    "categoriaID": "4",
+    "nombreCategoria": "Deportes"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Excelente calidad",
+      "cliente": "Pedro"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Perfecto para jeans",
+      "cliente": "Ana"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673b79c1b45fa64481fe6bf8"
+  },
+  "productoID": "016",
+  "nombre": "Zapatos",
+  "descripcion": "Zapatos deportivos",
+  "precio": "120000",
+  "categoria": {
+    "categoriaID": "3",
+    "nombreCategoria": "Calzado"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Muy cómodos para correr",
+      "cliente": "Luis"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Buen soporte",
+      "cliente": "Elena"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673b79c1b45fa64481fe6bf9"
+  },
+  "productoID": "017",
+  "nombre": "Chaqueta",
+  "descripcion": "Chaqueta impermeable",
+  "precio": "95000",
+  "categoria": {
+    "categoriaID": "1",
+    "nombreCategoria": "Ropa"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Excelente para la lluvia",
+      "cliente": "Diana"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Muy ligera",
+      "cliente": "Roberto"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673b79c1b45fa64481fe6bfa"
+  },
+  "productoID": "018",
+  "nombre": "Bolso",
+  "descripcion": "Bolso de cuero grande",
+  "precio": "85000",
+  "categoria": {
+    "categoriaID": "2",
+    "nombreCategoria": "Accesorios"
+  },
+  "comentarios": [
+    {
+      "comentarioID": "1",
+      "texto": "Espacioso y elegante",
+      "cliente": "Lucía"
+    },
+    {
+      "comentarioID": "2",
+      "texto": "Muy resistente",
+      "cliente": "Miguel"
+    }
+  ]
+}]
