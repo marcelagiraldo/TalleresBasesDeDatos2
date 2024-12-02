@@ -1,0 +1,66 @@
+[{
+  "_id": "reserva002",
+  "cliente": {
+    "nombre": "Felipe Suarez",
+    "correo": "felipe@email.com",
+    "telefono": "8897653",
+    "direccion": "Cra 54-09-25"
+  },
+  "habitacion": {
+    "tipo": "Habitacion",
+    "numero": 203,
+    "precio_noche": 150,
+    "cantidad": 1,
+    "descripcion": "Habitacion normal"
+  },
+  "fecha_entrega": "2024-12-11",
+  "fecha_salida": "2024-12-13",
+  "total": 350,
+  "estado_pago": "Pagado",
+  "metodo_pago": "Transferencia",
+  "fecha_reserva": "2024-12-2"
+},
+{
+  "_id": "reserva003",
+  "cliente": {
+    "nombre": "Fernando Alzate",
+    "correo": "fernando@email.com",
+    "telefono": "8897652",
+    "direccion": "Cra 54-09-26"
+  },
+  "habitacion": {
+    "tipo": "Habitacion",
+    "numero": 304,
+    "precio_noche": 200,
+    "cantidad": 1,
+    "descripcion": "Habitacion normal"
+  },
+  "fecha_entrega": "2024-12-11",
+  "fecha_salida": "2024-12-13",
+  "total": 400,
+  "estado_pago": "Pagado",
+  "metodo_pago": "Tarjeta de credito",
+  "fecha_reserva": "2024-12-2"
+},
+{
+  "_id": "reserva004",
+  "cliente": {
+    "nombre": "Mariana Mendez",
+    "correo": "mariana@email.com",
+    "telefono": "8897651",
+    "direccion": "Cra 54-09-29"
+  },
+  "habitacion": {
+    "tipo": "Suite",
+    "numero": 107,
+    "precio_noche": 200,
+    "cantidad": 1,
+    "descripcion": "Suite con vista al mar"
+  },
+  "fecha_entrega": "2024-12-11",
+  "fecha_salida": "2024-12-13",
+  "total": 400,
+  "estado_pago": "Pagado",
+  "metodo_pago": "Transferencia",
+  "fecha_reserva": "2024-12-2"
+}]

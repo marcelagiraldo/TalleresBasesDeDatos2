@@ -1,0 +1,21 @@
+[{
+  "_id": "pedido002",
+  "cliente": "cliente002",
+  "fecha_pedido": "2024-12-02",
+  "estado": "Enviado",
+  "total": 20.15
+},
+{
+  "_id": "pedido003",
+  "cliente": "cliente003",
+  "fecha_pedido": "2024-12-01",
+  "estado": "Enviado",
+  "total": 44.3
+},
+{
+  "_id": "pedido004",
+  "cliente": "cliente003",
+  "fecha_pedido": "2024-12-02",
+  "estado": "Enviado",
+  "total": 20.15
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": "detalle002",
+  "pedido_id": "pedido002",
+  "producto_id": "producto002",
+  "cantidad": 1,
+  "precio_unitario": 20.15
+},
+{
+  "_id": "detalle003",
+  "pedido_id": "pedido003",
+  "producto_id": "producto003",
+  "estado": 2,
+  "precio_unitario": 44.3
+},
+{
+  "_id": "detalle004",
+  "pedido_id": "pedido004",
+  "producto_id": "producto004",
+  "estado": 1,
+  "precio_unitario": 20.15
+}]

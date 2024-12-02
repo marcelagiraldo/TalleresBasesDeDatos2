@@ -1,0 +1,35 @@
+[{
+  "_id": "producto002",
+  "nombre": "Pantalon tela",
+  "descripcion": "Pantalon Talla 42",
+  "precio": 20.15,
+  "stock": 200
+},
+{
+  "_id": "producto003",
+  "nombre": "Pantalon Jean",
+  "descripcion": "Pantalon de Jean Talla 38",
+  "precio": 22.15,
+  "stock": 200
+},
+{
+  "_id": "producto004",
+  "nombre": "Pantalon",
+  "descripcion": "Pantalon de tela Talla 42",
+  "precio": 20.15,
+  "stock": 200
+},
+{
+  "_id": "producto005",
+  "nombre": "Camisa",
+  "descripcion": "Camisa talla M",
+  "precio": 18.28,
+  "stock": 200
+},
+{
+  "_id": "producto006",
+  "nombre": "Boxer",
+  "descripcion": "Boxer talla M",
+  "precio": 12.3,
+  "stock": 200
+}]
